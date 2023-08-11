@@ -9,6 +9,7 @@ import numpy as np
 import pandas as pd 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity 
+!pip install cython
 
 
 #creating a function that creates a similarity matrix if it doesn't exisit 
