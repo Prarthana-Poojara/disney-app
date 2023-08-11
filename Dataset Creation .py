@@ -17,7 +17,7 @@ import nltk
 import gensim
 from bs4 import BeautifulSoup as bs
 import requests
-import cython
+
 
 
 # In[2]:
